@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team 46 - Abdus Dogs</title>    
+    <!--main style-->
+    <link rel="stylesheet" href="/css/main_style.css">
+    <!--comfortaa font-->
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!--nav bar-->
+    <ul class="nav">
+        <li class="nav" style="margin-left:130px"><a class="nav" href="/index.html">Home</a></li>
+        <li class="nav"><a class="nav" href="aboutus.html">About Us</a></li>
+        <li class="nav"><a class="nav" href="search.html">Search</a></li>
+        <li class="nav"><a class="nav" href="more.html">More Resources</a></li>
+        <li class="nav"><a class="nav"  href="profile.html">My Profile</a></li>
+    </ul>
+    <br>
+    <h2 class="headers">Our data sources:</h2>
+    <div style="display: flex; text-align: center;">
+        <div style="margin-left:185px;padding-right:160px;"class="tooltip">
+            <a href="https://www.samhsa.gov/data/report/2021-nsduh-estimated-totals-state" target="_blank"><img src="/images/samhsa.jpg" class="connectdiv" style="width: 150px; height: 150px; object-fit: cover;"></a>
+            <span class="tooltiptext">give us extra credit plz</span>
+        </div>
+        <div style="padding-right:160px;"class="tooltip">
+            <a href="https://worldpopulationreview.com/state-rankings/pet-ownership-statistics-by-state" target="_blank"><img src="/images/doggie.gif"  class="connectdiv" style="width: 180px; height: 180px; object-fit: cover;"></a>
+            <span class="tooltiptext">pet percentages</span>
+        </div>
+        <div style="padding-right:160px;"class="tooltip">
+            <a href = "https://www.census.gov/popclock/" target="_blank"><img src="/images/usa.gif" class="connectdiv" style="width: 150px; height: 150px; object-fit: cover;"></a>
+            <span class="tooltiptext">state populations</span>
+        </div>
+        <div style="padding-right:160px;"class="tooltip">
+            <a href = "https://www.dea.gov/drug-information/drug-scheduling" target="_blank"><img src="/images/hank.gif" class="connectdiv" style="width: 160px; height: 160px; object-fit: cover;"></a>
+            <span class="tooltiptext">DEA drug categories</span>
+        </div>
+    </div>
+
+    <!--feedback form-->
+    <h2 class="headers">Feel free to reach out with any questions</h2>
+    <br>
+    <div>
+        <form method="post" action="https://formspree.io/f/mqkonnbr">
+            <div style="margin: auto; width: 100%;">
+                <div>
+                    <p class="formtext"><label for="name">Name</label></p>
+                    <textarea type="name" name="name"></textarea>
+                </div>
+                <div>
+                    <p class="formtext"><label for="email">Email</label></p>
+                    <textarea type="email" name="email"></textarea>
+                </div>
+            </div>
+            <p class="formtext"><label for="message">Message</label></p>
+            <textarea id="message" style="width: 500px; height: 200px; margin: auto;" name="message"></textarea>
+            <br>
+            <br>
+            <input type="submit" value="Submit" class="formbutton">
+        </form>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,432 @@
+/* MAIN NAV BAR */
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /*if the window is clipped, it will hide content*/ 
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);
+    width: 100%;
+}
+li.nav {
+    float: left;
+}
+li.nav a.nav {
+    display: block;
+    color: rgb(41, 163, 182);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Comfortaa;
+}
+li.nav a.nav:hover {
+    background-color: rgb(41, 163, 182);
+    color: white;
+}
+/* home page*/
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgb(35, 52, 52);
+}
+.container:hover .overlay {
+  opacity: 0.9;
+}
+.container {
+  position: relative;
+}
+/*BODY*/
+body {
+    font-family: Comfortaa;
+}
+
+h1.maintext {
+    margin-left:150px;
+    color: rgb(211, 92, 92);
+    font-size:50px;
+    margin-top: 230px;
+}
+h2.maintext {
+  text-align: center;
+  color: rgb(211, 92, 92);
+  font-size:50px;
+  margin-top: 150px;
+}
+
+p.maintext {
+    margin-left:150px;
+    margin-top:30px;
+    color: black;
+    line-height:150%;
+}
+
+.mainimg {
+    float:right;
+    width:650px;
+    height:700px;
+    margin: 0 0 0 15px;
+} 
+
+.contactbox {
+    width: 600px;
+    margin-left: 150px;
+    box-shadow: 0 2px 4px 1px rgba(0,0,0,0.25);
+    border-radius: 10px;
+}
+
+.contacttext {
+    margin-left: 20px;
+    margin-top: 50px;
+    padding: 20px 16px;
+}
+
+.contactbutton {
+    background-color: rgb(211, 92, 92);
+    margin-left: 150px;
+    padding: 12px;
+    width:130px;
+    font-size:18px;
+    font-family: Comfortaa;
+    color:white;
+    border:0px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 1px rgba(0,0,0,0.25);
+    transition: 0.2s;
+}
+.contactbutton:hover {
+    transform: scale(1.1);
+}
+
+/*carousel*/
+.mainTextBackground {
+    width: 600px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.6;
+    margin: auto;
+    bottom: 60px;
+    left: 440px;
+    position: absolute;
+  }
+  .mainText {
+    /*for the text*/
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: Comfortaa;
+  }
+
+  /*branch boxes*/
+  .container {
+    text-align: center;
+  }
+  .block {
+    margin-left: 220px;
+    display: inline-block;
+    width: 400px;
+    margin-right: 10px;
+    height: 250px;
+    border: 2px solid;
+    border-color: rgb(240, 238, 238);
+    transition: 0.2s;
+    cursor: pointer;
+  }
+  .block:hover {
+    transform: scale(1.1);
+  }
+  .blocktext {
+    color: white;
+    text-align: center;
+    font-family: Comfortaa;
+    padding-top: 20px;
+    font-size: 32px;
+  }
+
+  /*branch modals*/
+
+  .branchModal {
+    font-family: Comfortaa;
+  }
+
+  /*board styling*/
+  .headers {
+    text-align: center;
+    color: rgb(41, 163, 182);
+  }
+  h1.headers {
+    text-align: center;
+    color: rgb(41, 163, 182);
+    font-size: 50px;
+  }
+  h3.headers {
+    text-align: center;
+    color: rgb(41, 163, 182);
+    font-size:17px;
+  }
+  .board_container {
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  .board_div {
+    cursor: pointer;
+    display: inline-block;
+    width: 350px;
+    padding-bottom: 10px;
+  }
+  .board_pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    padding-bottom: 10px;
+    object-fit: cover;
+    object-position: center top;
+  }
+  #board_email {
+    width: 27px;
+    height: 22px;
+    padding-bottom: 3px;
+  }
+  #board_email:hover {
+    content: url('/images/miscellaneous/email_red.png');
+  }
+  #board_title_box{
+    display: inline;
+  }
+  #board_title{
+    display: inline; 
+    padding: 0px; 
+    color: rgb(209, 76, 76);
+  }
+
+  /*modal*/
+
+  .modal_pic {
+    width: 250px;
+    height: 400px;
+    float:left;
+    padding-right:20px;
+    object-fit: cover;
+  }
+  .modal_question {
+    color: black;
+    font-size: 14px;
+  }
+  .modal_answer {
+    color: black;
+    font-size: 14px;
+  }
+
+
+/*connect page*/
+
+.connectdiv {
+  transition: 0.2s;
+}
+
+.connectdiv:hover {
+  transform: scale(1.2);
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.formtext {
+  color: rgb(41, 163, 182);
+  font-size: 17px;
+}
+form {
+  text-align: center;
+}
+.formbutton {
+  background-color: rgb(41, 163, 182);
+  margin-left: 10px;
+  padding: 12px;
+  width:130px;
+  font-size:18px;
+  font-family: Comfortaa;
+  color:white;
+  border:0px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px 1px rgba(0,0,0,0.25);
+  transition: 0.2s;
+}
+.formbutton:hover {
+  transform: scale(1.1);
+}
+
+textarea {
+  border-radius: 10px;
+  box-shadow: 0 2px 4px 1px rgba(0,0,0,0.25);
+}
+
+/*points*/
+
+#points-table {
+  border-collapse: collapse;
+  width: 40%;
+  border-radius: 10px;
+}
+
+#points-table td, #points-table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#points-table tr:nth-child(even){background-color: #f2f2f2;}
+
+#points-table tr:hover {background-color: #ddd;}
+
+#points-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: rgb(211, 92, 92);
+  color: white;
+}
+
+.pointheader {
+  color: rgb(211, 92, 92);
+  font-size:50px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+
+/*get involved page*/
+.rowhehe {
+  display: flex;
+  height: 400px;
+}
+
+.col1 {
+  flex: 70%;
+}
+
+img.col1 {
+  height:400px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.col2 {
+  flex: 30%;
+  background-color: rgb(209, 111, 111);
+  text-align: center;
+  color: white;
+}
+
+.getinvolvedbox {
+  height: 400px;
+  width: 300px;
+  margin-left: 118px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.innerbox {
+  width: 350px;
+  height: 350px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color:rgb(190, 123, 123);
+  color: rgb(209,111,111);
+  border-radius: 15px;
+  padding: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+img.innerbox {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  border: none;
+  margin-top: 20px;
+}
+
+.innerbox:hover {
+  transform: scale(1.05);
+}
+a {
+  text-decoration: none;
+}
+
+.aboutusimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 500px; 
+  object-fit: contain;
+}
+
+/*map svg stuff*/
+path {
+  stroke: white;
+  fill: rgb(175, 238, 238);
+  transition: fill .4s ease;
+  transform-origin: center center;
+}
+
+path:hover {
+  cursor: pointer;
+  transform: scale(1.02, 1.02);
+}
+
+#us-map {
+  display: block;
+  margin-left:30px;
+  width: 90%;
+  height: 100%;
+}
+
+#details-box {
+  box-shadow: 0px 7px 40px rgba(0, 0, 0, 0.7);
+  opacity: 0%;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 20px;
+  position: fixed;
+  color: white;
+  font-family: Comfortaa;
+  background-color: black;
+  width: fit-content;
+  transform: translateX(-50%);
+  transition: opacity .4s ease;
+  z-index: 1;
+}

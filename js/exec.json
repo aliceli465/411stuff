@@ -1,0 +1,56 @@
+{
+    "values": [
+        {
+            "name": "Alice Li",
+            "position": "Frontend",
+            "major":"Computer Science",
+            "from": "Peoria, IL",
+            "year": "Sophomore",
+            "why": "I love my bunnies and I hate drugs!",
+            "hobbies": "Playing volleyball",
+            "fact": "I am bronze 1 in Valorant",
+            "netid": "aliceyl2",
+            "image": "/images/hehe.jpg",
+            "email": "aliceyl2@illinois.edu"
+        },
+        {
+            "name": "Meg Li",
+            "position": "Frontend",
+            "major":"CS + Stats",
+            "from": "Chicago, IL",
+            "year": "Junior",
+            "why": "I love my friends' cats and I also hate drugs!",
+            "hobbies": "Dancing",
+            "fact": "asdf",
+            "netid": "mli224",
+            "image": "/images/meg.png",
+            "email": "mli224@illinois.edu"
+        },
+        {
+            "name": "Shinan Calzoni",
+            "position": "Backend",
+            "major":"Computer Engineering",
+            "from": "Fort Lee, NJ",
+            "year": "Junior",
+            "why": "Drugs are unhealthy. Drink more water.",
+            "hobbies": "Working out",
+            "fact": "asdf",
+            "netid": "calzoni2",
+            "image": "/images/shinan.png",
+            "email": "calzoni2@illinois.edu"
+        },
+        {
+            "name": "Ming Yi",
+            "position": "Backend",
+            "major":"Computer Engineering",
+            "from": "Chicago, IL",
+            "year": "Junior",
+            "why": "I worry about my friends who do drugs :(",
+            "hobbies": "Eating takeout",
+            "fact": "asdf",
+            "netid": "myi22",
+            "image": "/images/ming.png",
+            "email": "myi22@illinois.edu"
+        }
+    ]
+}

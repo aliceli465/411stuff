@@ -1,0 +1,304 @@
+{
+  "values": [
+    {
+      "state": "California",
+      "population": "39029342",
+      "totalsub": 7.468739800942583,
+      "totalpet": 57.2
+    },
+    {
+      "state": "Texas",
+      "population": "30029572",
+      "totalsub": 4.8185834949628985,
+      "totalpet": 58.2
+    },
+    {
+      "state": "Florida",
+      "population": "22244823",
+      "totalsub": 4.774144527920047,
+      "totalpet": 56.0
+    },
+    {
+      "state": "New York",
+      "population": "19677151",
+      "totalsub": 6.017131240188176,
+      "totalpet": 49.7
+    },
+    {
+      "state": "Pennsylvania",
+      "population": "12972008",
+      "totalsub": 5.858769128110312,
+      "totalpet": 60.6
+    },
+    {
+      "state": "Illinois",
+      "population": "12582032",
+      "totalsub": 6.509282443408187,
+      "totalpet": 48.6
+    },
+    {
+      "state": "Ohio",
+      "population": "11756058",
+      "totalsub": 6.354170760300774,
+      "totalpet": 62.4
+    },
+    {
+      "state": "Georgia",
+      "population": "10912876",
+      "totalsub": 5.030754495881745,
+      "totalpet": 51.1
+    },
+    {
+      "state": "North Carolina",
+      "population": "10698973",
+      "totalsub": 5.673441740623142,
+      "totalpet": 58.6
+    },
+    {
+      "state": "Michigan",
+      "population": "10034113",
+      "totalsub": 6.129091829043584,
+      "totalpet": 62.4
+    },
+    {
+      "state": "New Jersey",
+      "population": "9261699",
+      "totalsub": 5.204228727364169,
+      "totalpet": 47.4
+    },
+    {
+      "state": "Virginia",
+      "population": "8683619",
+      "totalsub": 5.711904218736451,
+      "totalpet": 55.5
+    },
+    {
+      "state": "Washington",
+      "population": "7785786",
+      "totalsub": 6.768744992477317,
+      "totalpet": 62.7
+    },
+    {
+      "state": "Arizona",
+      "population": "7359197",
+      "totalsub": 5.66637909000126,
+      "totalpet": 58.0
+    },
+    {
+      "state": "Tennessee",
+      "population": "7051339",
+      "totalsub": 5.6017729398629115,
+      "totalpet": 61.7
+    },
+    {
+      "state": "Massachusetts",
+      "population": "6981974",
+      "totalsub": 7.20426630061928,
+      "totalpet": 49.1
+    },
+    {
+      "state": "Indiana",
+      "population": "6833037",
+      "totalsub": 6.556381884072924,
+      "totalpet": 69.2
+    },
+    {
+      "state": "Missouri",
+      "population": "6177957",
+      "totalsub": 6.102340951871306,
+      "totalpet": 63.5
+    },
+    {
+      "state": "Maryland",
+      "population": "6164660",
+      "totalsub": 5.515308224622283,
+      "totalpet": 48.6
+    },
+    {
+      "state": "Wisconsin",
+      "population": "5892539",
+      "totalsub": 6.397921167768257,
+      "totalpet": 59.0
+    },
+    {
+      "state": "Colorado",
+      "population": "5839926",
+      "totalsub": 9.195321995518436,
+      "totalpet": 64.7
+    },
+    {
+      "state": "Minnesota",
+      "population": "5717184",
+      "totalsub": 6.051930460870246,
+      "totalpet": 54.0
+    },
+    {
+      "state": "South Carolina",
+      "population": "5282634",
+      "totalsub": 5.262526232178871,
+      "totalpet": 62.0
+    },
+    {
+      "state": "Alabama",
+      "population": "5074296",
+      "totalsub": 6.030393181635443,
+      "totalpet": 59.8
+    },
+    {
+      "state": "Louisiana",
+      "population": "4590241",
+      "totalsub": 6.339536420854591,
+      "totalpet": 54.4
+    },
+    {
+      "state": "Kentucky",
+      "population": "4512310",
+      "totalsub": 6.205247423160199,
+      "totalpet": 64.1
+    },
+    {
+      "state": "Oregon",
+      "population": "4240137",
+      "totalsub": 7.995024689060754,
+      "totalpet": 59.2
+    },
+    {
+      "state": "Oklahoma",
+      "population": "4019800",
+      "totalsub": 6.1694611672222495,
+      "totalpet": 65.0
+    },
+    {
+      "state": "Connecticut",
+      "population": "3626205",
+      "totalsub": 6.75637477748776,
+      "totalpet": 49.9
+    },
+    {
+      "state": "Utah",
+      "population": "3380800",
+      "totalsub": 4.673450070989115,
+      "totalpet": 58.5
+    },
+    {
+      "state": "Iowa",
+      "population": "3200517",
+      "totalsub": 6.405215157426128,
+      "totalpet": 59.4
+    },
+    {
+      "state": "Nevada",
+      "population": "3177772",
+      "totalsub": 7.237775397353869,
+      "totalpet": 53.3
+    },
+    {
+      "state": "Arkansas",
+      "population": "3045637",
+      "totalsub": 5.614589000593308,
+      "totalpet": 69.0
+    },
+    {
+      "state": "Mississippi",
+      "population": "2940057",
+      "totalsub": 5.646149037246556,
+      "totalpet": 65.5
+    },
+    {
+      "state": "Kansas",
+      "population": "2937150",
+      "totalsub": 5.651737228265495,
+      "totalpet": 62.8
+    },
+    {
+      "state": "New Mexico",
+      "population": "2113344",
+      "totalsub": 6.19870688349838,
+      "totalpet": 60.1
+    },
+    {
+      "state": "Nebraska",
+      "population": "1967923",
+      "totalsub": 5.894539572940608,
+      "totalpet": 70.3
+    },
+    {
+      "state": "Idaho",
+      "population": "1939033",
+      "totalsub": 5.51821449145012,
+      "totalpet": 69.9
+    },
+    {
+      "state": "West Virginia",
+      "population": "1775156",
+      "totalsub": 5.295309257327244,
+      "totalpet": 70.7
+    },
+    {
+      "state": "Hawaii",
+      "population": "1440196",
+      "totalsub": 6.457454402039723,
+      "totalpet": 60.0
+    },
+    {
+      "state": "New Hampshire",
+      "population": "1395231",
+      "totalsub": 7.167271942782235,
+      "totalpet": 51.8
+    },
+    {
+      "state": "Maine",
+      "population": "1385340",
+      "totalsub": 7.21844456956415,
+      "totalpet": 63.5
+    },
+    {
+      "state": "Montana",
+      "population": "1122867",
+      "totalsub": 7.748023586052489,
+      "totalpet": 61.9
+    },
+    {
+      "state": "Rhode Island",
+      "population": "1093734",
+      "totalsub": 7.131532895566929,
+      "totalpet": 45.4
+    },
+    {
+      "state": "Delaware",
+      "population": "1018396",
+      "totalsub": 6.775360468815667,
+      "totalpet": 57.9
+    },
+    {
+      "state": "South Dakota",
+      "population": "909824",
+      "totalsub": 5.825302476083286,
+      "totalpet": 46.4
+    },
+    {
+      "state": "North Dakota",
+      "population": "779261",
+      "totalsub": 6.801315605426167,
+      "totalpet": 63.7
+    },
+    {
+      "state": "Alaska",
+      "population": "733583",
+      "totalsub": 7.77008191302143,
+      "totalpet": 8.18
+    },
+    {
+      "state": "Vermont",
+      "population": "647064",
+      "totalsub": 8.190843564160577,
+      "totalpet": 70.0
+    },
+    {
+      "state": "Wyoming",
+      "population": "581381",
+      "totalsub": 6.192152822331655,
+      "totalpet": 71.8
+    }
+  ]
+}

@@ -1,0 +1,1403 @@
+"age_group","value","state","substance"
+12to17,31,Alabama,alcohol
+18to25,232,Alabama,alcohol
+26plus,1536,Alabama,alcohol
+All,1798,Alabama,alcohol
+12to17,5,Alaska,alcohol
+18to25,38,Alaska,alcohol
+26plus,260,Alaska,alcohol
+All,303,Alaska,alcohol
+12to17,45,Arizona,alcohol
+18to25,375,Arizona,alcohol
+26plus,2540,Arizona,alcohol
+All,2959,Arizona,alcohol
+12to17,20,Arkansas,alcohol
+18to25,152,Arkansas,alcohol
+26plus,859,Arkansas,alcohol
+All,1031,Arkansas,alcohol
+12to17,268,California,alcohol
+18to25,2275,California,alcohol
+26plus,13932,California,alcohol
+All,16475,California,alcohol
+12to17,46,Colorado,alcohol
+18to25,368,Colorado,alcohol
+26plus,2470,Colorado,alcohol
+All,2885,Colorado,alcohol
+12to17,30,Connecticut,alcohol
+18to25,251,Connecticut,alcohol
+26plus,1555,Connecticut,alcohol
+All,1837,Connecticut,alcohol
+12to17,7,Delaware,alcohol
+18to25,55,Delaware,alcohol
+26plus,402,Delaware,alcohol
+All,464,Delaware,alcohol
+12to17,131,Florida,alcohol
+18to25,970,Florida,alcohol
+26plus,8198,Florida,alcohol
+All,9298,Florida,alcohol
+12to17,63,Georgia,alcohol
+18to25,518,Georgia,alcohol
+26plus,3544,Georgia,alcohol
+All,4125,Georgia,alcohol
+12to17,6,Hawaii,alcohol
+18to25,61,Hawaii,alcohol
+26plus,467,Hawaii,alcohol
+All,533,Hawaii,alcohol
+12to17,12,Idaho,alcohol
+18to25,91,Idaho,alcohol
+26plus,574,Idaho,alcohol
+All,677,Idaho,alcohol
+12to17,84,Illinois,alcohol
+18to25,734,Illinois,alcohol
+26plus,5089,Illinois,alcohol
+All,5907,Illinois,alcohol
+12to17,49,Indiana,alcohol
+18to25,411,Indiana,alcohol
+26plus,2306,Indiana,alcohol
+All,2766,Indiana,alcohol
+12to17,28,Iowa,alcohol
+18to25,226,Iowa,alcohol
+26plus,1267,Iowa,alcohol
+All,1521,Iowa,alcohol
+12to17,24,Kansas,alcohol
+18to25,188,Kansas,alcohol
+26plus,1038,Kansas,alcohol
+All,1250,Kansas,alcohol
+12to17,33,Kentucky,alcohol
+18to25,223,Kentucky,alcohol
+26plus,1355,Kentucky,alcohol
+All,1610,Kentucky,alcohol
+12to17,36,Louisiana,alcohol
+18to25,246,Louisiana,alcohol
+26plus,1553,Louisiana,alcohol
+All,1835,Louisiana,alcohol
+12to17,9,Maine,alcohol
+18to25,73,Maine,alcohol
+26plus,568,Maine,alcohol
+All,650,Maine,alcohol
+12to17,41,Maryland,alcohol
+18to25,339,Maryland,alcohol
+26plus,2414,Maryland,alcohol
+All,2794,Maryland,alcohol
+12to17,52,Massachusetts,alcohol
+18to25,505,Massachusetts,alcohol
+26plus,3037,Massachusetts,alcohol
+All,3594,Massachusetts,alcohol
+12to17,69,Michigan,alcohol
+18to25,658,Michigan,alcohol
+26plus,3821,Michigan,alcohol
+All,4547,Michigan,alcohol
+12to17,48,Minnesota,alcohol
+18to25,371,Minnesota,alcohol
+26plus,2404,Minnesota,alcohol
+All,2823,Minnesota,alcohol
+12to17,19,Mississippi,alcohol
+18to25,132,Mississippi,alcohol
+26plus,799,Mississippi,alcohol
+All,950,Mississippi,alcohol
+12to17,43,Missouri,alcohol
+18to25,338,Missouri,alcohol
+26plus,2151,Missouri,alcohol
+All,2533,Missouri,alcohol
+12to17,9,Montana,alcohol
+18to25,69,Montana,alcohol
+26plus,440,Montana,alcohol
+All,518,Montana,alcohol
+12to17,16,Nebraska,alcohol
+18to25,129,Nebraska,alcohol
+26plus,733,Nebraska,alcohol
+All,878,Nebraska,alcohol
+12to17,22,Nevada,alcohol
+18to25,152,Nevada,alcohol
+26plus,1161,Nevada,alcohol
+All,1334,Nevada,alcohol
+12to17,10,New Hampshire,alcohol
+18to25,97,New Hampshire,alcohol
+26plus,631,New Hampshire,alcohol
+All,738,New Hampshire,alcohol
+12to17,64,New Jersey,alcohol
+18to25,505,New Jersey,alcohol
+26plus,3407,New Jersey,alcohol
+All,3976,New Jersey,alcohol
+12to17,14,New Mexico,alcohol
+18to25,104,New Mexico,alcohol
+26plus,669,New Mexico,alcohol
+All,787,New Mexico,alcohol
+12to17,128,New York,alcohol
+18to25,1139,New York,alcohol
+26plus,7168,New York,alcohol
+All,8435,New York,alcohol
+12to17,73,North Carolina,alcohol
+18to25,586,North Carolina,alcohol
+26plus,3644,North Carolina,alcohol
+All,4303,North Carolina,alcohol
+12to17,5,North Dakota,alcohol
+18to25,62,North Dakota,alcohol
+26plus,282,North Dakota,alcohol
+All,349,North Dakota,alcohol
+12to17,86,Ohio,alcohol
+18to25,691,Ohio,alcohol
+26plus,4264,Ohio,alcohol
+All,5042,Ohio,alcohol
+12to17,26,Oklahoma,alcohol
+18to25,216,Oklahoma,alcohol
+26plus,1196,Oklahoma,alcohol
+All,1438,Oklahoma,alcohol
+12to17,32,Oregon,alcohol
+18to25,242,Oregon,alcohol
+26plus,1790,Oregon,alcohol
+All,2064,Oregon,alcohol
+12to17,84,Pennsylvania,alcohol
+18to25,726,Pennsylvania,alcohol
+26plus,4885,Pennsylvania,alcohol
+All,5695,Pennsylvania,alcohol
+12to17,8,Rhode Island,alcohol
+18to25,81,Rhode Island,alcohol
+26plus,445,Rhode Island,alcohol
+All,533,Rhode Island,alcohol
+12to17,34,South Carolina,alcohol
+18to25,250,South Carolina,alcohol
+26plus,1792,South Carolina,alcohol
+All,2077,South Carolina,alcohol
+12to17,6,South Dakota,alcohol
+18to25,55,South Dakota,alcohol
+26plus,329,South Dakota,alcohol
+All,391,South Dakota,alcohol
+12to17,47,Tennessee,alcohol
+18to25,354,Tennessee,alcohol
+26plus,2102,Tennessee,alcohol
+All,2504,Tennessee,alcohol
+12to17,226,Texas,alcohol
+18to25,1583,Texas,alcohol
+26plus,9370,Texas,alcohol
+All,11179,Texas,alcohol
+12to17,18,Utah,alcohol
+18to25,132,Utah,alcohol
+26plus,592,Utah,alcohol
+All,742,Utah,alcohol
+12to17,6,Vermont,alcohol
+18to25,50,Vermont,alcohol
+26plus,277,Vermont,alcohol
+All,332,Vermont,alcohol
+12to17,57,Virginia,alcohol
+18to25,507,Virginia,alcohol
+26plus,3057,Virginia,alcohol
+All,3621,Virginia,alcohol
+12to17,54,Washington,alcohol
+18to25,393,Washington,alcohol
+26plus,3050,Washington,alcohol
+All,3497,Washington,alcohol
+12to17,12,West Virginia,alcohol
+18to25,84,West Virginia,alcohol
+26plus,498,West Virginia,alcohol
+All,594,West Virginia,alcohol
+12to17,49,Wisconsin,alcohol
+18to25,409,Wisconsin,alcohol
+26plus,2490,Wisconsin,alcohol
+All,2948,Wisconsin,alcohol
+12to17,4,Wyoming,alcohol
+18to25,33,Wyoming,alcohol
+26plus,212,Wyoming,alcohol
+All,249,Wyoming,alcohol
+12to17,1,Alabama,cocaine
+18to25,21,Alabama,cocaine
+26plus,51,Alabama,cocaine
+All,73,Alabama,cocaine
+12to17,0,Alaska,cocaine
+18to25,4,Alaska,cocaine
+26plus,8,Alaska,cocaine
+All,12,Alaska,cocaine
+12to17,3,Arizona,cocaine
+18to25,41,Arizona,cocaine
+26plus,67,Arizona,cocaine
+All,110,Arizona,cocaine
+12to17,1,Arkansas,cocaine
+18to25,10,Arkansas,cocaine
+26plus,17,Arkansas,cocaine
+All,28,Arkansas,cocaine
+12to17,16,California,cocaine
+18to25,322,California,cocaine
+26plus,572,California,cocaine
+All,909,California,cocaine
+12to17,3,Colorado,cocaine
+18to25,65,Colorado,cocaine
+26plus,130,Colorado,cocaine
+All,198,Colorado,cocaine
+12to17,1,Connecticut,cocaine
+18to25,24,Connecticut,cocaine
+26plus,36,Connecticut,cocaine
+All,61,Connecticut,cocaine
+12to17,0,Delaware,cocaine
+18to25,6,Delaware,cocaine
+26plus,12,Delaware,cocaine
+All,18,Delaware,cocaine
+12to17,5,Florida,cocaine
+18to25,99,Florida,cocaine
+26plus,211,Florida,cocaine
+All,315,Florida,cocaine
+12to17,2,Georgia,cocaine
+18to25,38,Georgia,cocaine
+26plus,85,Georgia,cocaine
+All,125,Georgia,cocaine
+12to17,0,Hawaii,cocaine
+18to25,7,Hawaii,cocaine
+26plus,20,Hawaii,cocaine
+All,28,Hawaii,cocaine
+12to17,1,Idaho,cocaine
+18to25,7,Idaho,cocaine
+26plus,12,Idaho,cocaine
+All,20,Idaho,cocaine
+12to17,4,Illinois,cocaine
+18to25,62,Illinois,cocaine
+26plus,158,Illinois,cocaine
+All,224,Illinois,cocaine
+12to17,3,Indiana,cocaine
+18to25,34,Indiana,cocaine
+26plus,51,Indiana,cocaine
+All,88,Indiana,cocaine
+12to17,1,Iowa,cocaine
+18to25,16,Iowa,cocaine
+26plus,21,Iowa,cocaine
+All,38,Iowa,cocaine
+12to17,1,Kansas,cocaine
+18to25,16,Kansas,cocaine
+26plus,31,Kansas,cocaine
+All,49,Kansas,cocaine
+12to17,2,Kentucky,cocaine
+18to25,21,Kentucky,cocaine
+26plus,50,Kentucky,cocaine
+All,72,Kentucky,cocaine
+12to17,1,Louisiana,cocaine
+18to25,22,Louisiana,cocaine
+26plus,46,Louisiana,cocaine
+All,69,Louisiana,cocaine
+12to17,1,Maine,cocaine
+18to25,9,Maine,cocaine
+26plus,14,Maine,cocaine
+All,23,Maine,cocaine
+12to17,1,Maryland,cocaine
+18to25,26,Maryland,cocaine
+26plus,60,Maryland,cocaine
+All,88,Maryland,cocaine
+12to17,2,Massachusetts,cocaine
+18to25,55,Massachusetts,cocaine
+26plus,76,Massachusetts,cocaine
+All,134,Massachusetts,cocaine
+12to17,3,Michigan,cocaine
+18to25,64,Michigan,cocaine
+26plus,88,Michigan,cocaine
+All,154,Michigan,cocaine
+12to17,2,Minnesota,cocaine
+18to25,34,Minnesota,cocaine
+26plus,65,Minnesota,cocaine
+All,101,Minnesota,cocaine
+12to17,1,Mississippi,cocaine
+18to25,11,Mississippi,cocaine
+26plus,26,Mississippi,cocaine
+All,37,Mississippi,cocaine
+12to17,2,Missouri,cocaine
+18to25,26,Missouri,cocaine
+26plus,40,Missouri,cocaine
+All,68,Missouri,cocaine
+12to17,0,Montana,cocaine
+18to25,8,Montana,cocaine
+26plus,11,Montana,cocaine
+All,19,Montana,cocaine
+12to17,1,Nebraska,cocaine
+18to25,13,Nebraska,cocaine
+26plus,14,Nebraska,cocaine
+All,27,Nebraska,cocaine
+12to17,1,Nevada,cocaine
+18to25,21,Nevada,cocaine
+26plus,48,Nevada,cocaine
+All,70,Nevada,cocaine
+12to17,1,New Hampshire,cocaine
+18to25,13,New Hampshire,cocaine
+26plus,18,New Hampshire,cocaine
+All,31,New Hampshire,cocaine
+12to17,2,New Jersey,cocaine
+18to25,41,New Jersey,cocaine
+26plus,76,New Jersey,cocaine
+All,119,New Jersey,cocaine
+12to17,1,New Mexico,cocaine
+18to25,11,New Mexico,cocaine
+26plus,21,New Mexico,cocaine
+All,33,New Mexico,cocaine
+12to17,4,New York,cocaine
+18to25,131,New York,cocaine
+26plus,282,New York,cocaine
+All,417,New York,cocaine
+12to17,3,North Carolina,cocaine
+18to25,55,North Carolina,cocaine
+26plus,111,North Carolina,cocaine
+All,169,North Carolina,cocaine
+12to17,0,North Dakota,cocaine
+18to25,4,North Dakota,cocaine
+26plus,5,North Dakota,cocaine
+All,9,North Dakota,cocaine
+12to17,3,Ohio,cocaine
+18to25,59,Ohio,cocaine
+26plus,109,Ohio,cocaine
+All,171,Ohio,cocaine
+12to17,1,Oklahoma,cocaine
+18to25,18,Oklahoma,cocaine
+26plus,34,Oklahoma,cocaine
+All,53,Oklahoma,cocaine
+12to17,2,Oregon,cocaine
+18to25,35,Oregon,cocaine
+26plus,67,Oregon,cocaine
+All,104,Oregon,cocaine
+12to17,4,Pennsylvania,cocaine
+18to25,82,Pennsylvania,cocaine
+26plus,148,Pennsylvania,cocaine
+All,234,Pennsylvania,cocaine
+12to17,0,Rhode Island,cocaine
+18to25,8,Rhode Island,cocaine
+26plus,12,Rhode Island,cocaine
+All,20,Rhode Island,cocaine
+12to17,1,South Carolina,cocaine
+18to25,21,South Carolina,cocaine
+26plus,41,South Carolina,cocaine
+All,63,South Carolina,cocaine
+12to17,0,South Dakota,cocaine
+18to25,3,South Dakota,cocaine
+26plus,4,South Dakota,cocaine
+All,8,South Dakota,cocaine
+12to17,2,Tennessee,cocaine
+18to25,25,Tennessee,cocaine
+26plus,61,Tennessee,cocaine
+All,87,Tennessee,cocaine
+12to17,11,Texas,cocaine
+18to25,128,Texas,cocaine
+26plus,207,Texas,cocaine
+All,346,Texas,cocaine
+12to17,2,Utah,cocaine
+18to25,15,Utah,cocaine
+26plus,16,Utah,cocaine
+All,32,Utah,cocaine
+12to17,0,Vermont,cocaine
+18to25,7,Vermont,cocaine
+26plus,10,Vermont,cocaine
+All,17,Vermont,cocaine
+12to17,2,Virginia,cocaine
+18to25,45,Virginia,cocaine
+26plus,80,Virginia,cocaine
+All,127,Virginia,cocaine
+12to17,3,Washington,cocaine
+18to25,46,Washington,cocaine
+26plus,95,Washington,cocaine
+All,144,Washington,cocaine
+12to17,1,West Virginia,cocaine
+18to25,8,West Virginia,cocaine
+26plus,16,West Virginia,cocaine
+All,25,West Virginia,cocaine
+12to17,2,Wisconsin,cocaine
+18to25,34,Wisconsin,cocaine
+26plus,64,Wisconsin,cocaine
+All,100,Wisconsin,cocaine
+12to17,0,Wyoming,cocaine
+18to25,3,Wyoming,cocaine
+26plus,4,Wyoming,cocaine
+All,8,Wyoming,cocaine
+12to17,0,Alabama,heroin
+18to25,2,Alabama,heroin
+26plus,9,Alabama,heroin
+All,11,Alabama,heroin
+12to17,0,Alaska,heroin
+18to25,0,Alaska,heroin
+26plus,3,Alaska,heroin
+All,3,Alaska,heroin
+12to17,0,Arizona,heroin
+18to25,3,Arizona,heroin
+26plus,18,Arizona,heroin
+All,22,Arizona,heroin
+12to17,0,Arkansas,heroin
+18to25,1,Arkansas,heroin
+26plus,4,Arkansas,heroin
+All,5,Arkansas,heroin
+12to17,0,California,heroin
+18to25,8,California,heroin
+26plus,65,California,heroin
+All,74,California,heroin
+12to17,0,Colorado,heroin
+18to25,3,Colorado,heroin
+26plus,14,Colorado,heroin
+All,17,Colorado,heroin
+12to17,0,Connecticut,heroin
+18to25,1,Connecticut,heroin
+26plus,9,Connecticut,heroin
+All,10,Connecticut,heroin
+12to17,0,Delaware,heroin
+18to25,1,Delaware,heroin
+26plus,4,Delaware,heroin
+All,5,Delaware,heroin
+12to17,0,Florida,heroin
+18to25,8,Florida,heroin
+26plus,36,Florida,heroin
+All,45,Florida,heroin
+12to17,0,Georgia,heroin
+18to25,2,Georgia,heroin
+26plus,11,Georgia,heroin
+All,14,Georgia,heroin
+12to17,0,Hawaii,heroin
+18to25,0,Hawaii,heroin
+26plus,3,Hawaii,heroin
+All,3,Hawaii,heroin
+12to17,0,Idaho,heroin
+18to25,1,Idaho,heroin
+26plus,4,Idaho,heroin
+All,4,Idaho,heroin
+12to17,0,Illinois,heroin
+18to25,4,Illinois,heroin
+26plus,22,Illinois,heroin
+All,26,Illinois,heroin
+12to17,0,Indiana,heroin
+18to25,4,Indiana,heroin
+26plus,14,Indiana,heroin
+All,18,Indiana,heroin
+12to17,0,Iowa,heroin
+18to25,1,Iowa,heroin
+26plus,5,Iowa,heroin
+All,6,Iowa,heroin
+12to17,0,Kansas,heroin
+18to25,1,Kansas,heroin
+26plus,10,Kansas,heroin
+All,12,Kansas,heroin
+12to17,0,Kentucky,heroin
+18to25,2,Kentucky,heroin
+26plus,12,Kentucky,heroin
+All,15,Kentucky,heroin
+12to17,0,Louisiana,heroin
+18to25,1,Louisiana,heroin
+26plus,9,Louisiana,heroin
+All,11,Louisiana,heroin
+12to17,0,Maine,heroin
+18to25,1,Maine,heroin
+26plus,6,Maine,heroin
+All,7,Maine,heroin
+12to17,0,Maryland,heroin
+18to25,2,Maryland,heroin
+26plus,10,Maryland,heroin
+All,12,Maryland,heroin
+12to17,0,Massachusetts,heroin
+18to25,3,Massachusetts,heroin
+26plus,19,Massachusetts,heroin
+All,23,Massachusetts,heroin
+12to17,0,Michigan,heroin
+18to25,4,Michigan,heroin
+26plus,23,Michigan,heroin
+All,27,Michigan,heroin
+12to17,0,Minnesota,heroin
+18to25,2,Minnesota,heroin
+26plus,11,Minnesota,heroin
+All,14,Minnesota,heroin
+12to17,0,Mississippi,heroin
+18to25,1,Mississippi,heroin
+26plus,4,Mississippi,heroin
+All,5,Mississippi,heroin
+12to17,0,Missouri,heroin
+18to25,3,Missouri,heroin
+26plus,11,Missouri,heroin
+All,14,Missouri,heroin
+12to17,0,Montana,heroin
+18to25,1,Montana,heroin
+26plus,3,Montana,heroin
+All,3,Montana,heroin
+12to17,0,Nebraska,heroin
+18to25,1,Nebraska,heroin
+26plus,3,Nebraska,heroin
+All,4,Nebraska,heroin
+12to17,0,Nevada,heroin
+18to25,1,Nevada,heroin
+26plus,5,Nevada,heroin
+All,5,Nevada,heroin
+12to17,0,New Hampshire,heroin
+18to25,1,New Hampshire,heroin
+26plus,3,New Hampshire,heroin
+All,4,New Hampshire,heroin
+12to17,0,New Jersey,heroin
+18to25,3,New Jersey,heroin
+26plus,27,New Jersey,heroin
+All,31,New Jersey,heroin
+12to17,0,New Mexico,heroin
+18to25,1,New Mexico,heroin
+26plus,4,New Mexico,heroin
+All,5,New Mexico,heroin
+12to17,0,New York,heroin
+18to25,6,New York,heroin
+26plus,42,New York,heroin
+All,49,New York,heroin
+12to17,0,North Carolina,heroin
+18to25,4,North Carolina,heroin
+26plus,20,North Carolina,heroin
+All,24,North Carolina,heroin
+12to17,0,North Dakota,heroin
+18to25,0,North Dakota,heroin
+26plus,2,North Dakota,heroin
+All,2,North Dakota,heroin
+12to17,0,Ohio,heroin
+18to25,5,Ohio,heroin
+26plus,29,Ohio,heroin
+All,34,Ohio,heroin
+12to17,0,Oklahoma,heroin
+18to25,2,Oklahoma,heroin
+26plus,7,Oklahoma,heroin
+All,9,Oklahoma,heroin
+12to17,0,Oregon,heroin
+18to25,2,Oregon,heroin
+26plus,15,Oregon,heroin
+All,17,Oregon,heroin
+12to17,0,Pennsylvania,heroin
+18to25,9,Pennsylvania,heroin
+26plus,35,Pennsylvania,heroin
+All,44,Pennsylvania,heroin
+12to17,0,Rhode Island,heroin
+18to25,0,Rhode Island,heroin
+26plus,3,Rhode Island,heroin
+All,3,Rhode Island,heroin
+12to17,0,South Carolina,heroin
+18to25,2,South Carolina,heroin
+26plus,6,South Carolina,heroin
+All,8,South Carolina,heroin
+12to17,0,South Dakota,heroin
+18to25,0,South Dakota,heroin
+26plus,1,South Dakota,heroin
+All,2,South Dakota,heroin
+12to17,0,Tennessee,heroin
+18to25,4,Tennessee,heroin
+26plus,13,Tennessee,heroin
+All,17,Tennessee,heroin
+12to17,0,Texas,heroin
+18to25,7,Texas,heroin
+26plus,27,Texas,heroin
+All,34,Texas,heroin
+12to17,0,Utah,heroin
+18to25,1,Utah,heroin
+26plus,6,Utah,heroin
+All,7,Utah,heroin
+12to17,0,Vermont,heroin
+18to25,0,Vermont,heroin
+26plus,3,Vermont,heroin
+All,3,Vermont,heroin
+12to17,0,Virginia,heroin
+18to25,3,Virginia,heroin
+26plus,15,Virginia,heroin
+All,18,Virginia,heroin
+12to17,0,Washington,heroin
+18to25,3,Washington,heroin
+26plus,19,Washington,heroin
+All,23,Washington,heroin
+12to17,0,West Virginia,heroin
+18to25,1,West Virginia,heroin
+26plus,4,West Virginia,heroin
+All,5,West Virginia,heroin
+12to17,0,Wisconsin,heroin
+18to25,3,Wisconsin,heroin
+26plus,14,Wisconsin,heroin
+All,17,Wisconsin,heroin
+12to17,0,Wyoming,heroin
+18to25,0,Wyoming,heroin
+26plus,1,Wyoming,heroin
+All,1,Wyoming,heroin
+12to17,36,Alabama,marijuana
+18to25,152,Alabama,marijuana
+26plus,417,Alabama,marijuana
+All,605,Alabama,marijuana
+12to17,10,Alaska,marijuana
+18to25,29,Alaska,marijuana
+26plus,106,Alaska,marijuana
+All,146,Alaska,marijuana
+12to17,71,Arizona,marijuana
+18to25,230,Arizona,marijuana
+26plus,666,Arizona,marijuana
+All,968,Arizona,marijuana
+12to17,27,Arkansas,marijuana
+18to25,82,Arkansas,marijuana
+26plus,230,Arkansas,marijuana
+All,338,Arkansas,marijuana
+12to17,477,California,marijuana
+18to25,1687,California,marijuana
+26plus,4476,California,marijuana
+All,6641,California,marijuana
+12to17,76,Colorado,marijuana
+18to25,286,Colorado,marijuana
+26plus,903,Colorado,marijuana
+All,1265,Colorado,marijuana
+12to17,38,Connecticut,marijuana
+18to25,168,Connecticut,marijuana
+26plus,377,Connecticut,marijuana
+All,583,Connecticut,marijuana
+12to17,10,Delaware,marijuana
+18to25,38,Delaware,marijuana
+26plus,101,Delaware,marijuana
+All,149,Delaware,marijuana
+12to17,174,Florida,marijuana
+18to25,641,Florida,marijuana
+26plus,1890,Florida,marijuana
+All,2705,Florida,marijuana
+12to17,97,Georgia,marijuana
+18to25,340,Georgia,marijuana
+26plus,873,Georgia,marijuana
+All,1310,Georgia,marijuana
+12to17,11,Hawaii,marijuana
+18to25,36,Hawaii,marijuana
+26plus,135,Hawaii,marijuana
+All,182,Hawaii,marijuana
+12to17,19,Idaho,marijuana
+18to25,53,Idaho,marijuana
+26plus,133,Idaho,marijuana
+All,205,Idaho,marijuana
+12to17,133,Illinois,marijuana
+18to25,445,Illinois,marijuana
+26plus,1170,Illinois,marijuana
+All,1748,Illinois,marijuana
+12to17,67,Indiana,marijuana
+18to25,259,Indiana,marijuana
+26plus,603,Indiana,marijuana
+All,928,Indiana,marijuana
+12to17,29,Iowa,marijuana
+18to25,99,Iowa,marijuana
+26plus,199,Iowa,marijuana
+All,327,Iowa,marijuana
+12to17,28,Kansas,marijuana
+18to25,96,Kansas,marijuana
+26plus,226,Kansas,marijuana
+All,349,Kansas,marijuana
+12to17,39,Kentucky,marijuana
+18to25,137,Kentucky,marijuana
+26plus,378,Kentucky,marijuana
+All,553,Kentucky,marijuana
+12to17,31,Louisiana,marijuana
+18to25,129,Louisiana,marijuana
+26plus,304,Louisiana,marijuana
+All,464,Louisiana,marijuana
+12to17,16,Maine,marijuana
+18to25,59,Maine,marijuana
+26plus,214,Maine,marijuana
+All,289,Maine,marijuana
+12to17,55,Maryland,marijuana
+18to25,237,Maryland,marijuana
+26plus,521,Maryland,marijuana
+All,813,Maryland,marijuana
+12to17,77,Massachusetts,marijuana
+18to25,367,Massachusetts,marijuana
+26plus,874,Massachusetts,marijuana
+All,1318,Massachusetts,marijuana
+12to17,101,Michigan,marijuana
+18to25,475,Michigan,marijuana
+26plus,1189,Michigan,marijuana
+All,1765,Michigan,marijuana
+12to17,55,Minnesota,marijuana
+18to25,220,Minnesota,marijuana
+26plus,506,Minnesota,marijuana
+All,781,Minnesota,marijuana
+12to17,24,Mississippi,marijuana
+18to25,78,Mississippi,marijuana
+26plus,195,Mississippi,marijuana
+All,297,Mississippi,marijuana
+12to17,53,Missouri,marijuana
+18to25,204,Missouri,marijuana
+26plus,506,Missouri,marijuana
+All,763,Missouri,marijuana
+12to17,12,Montana,marijuana
+18to25,44,Montana,marijuana
+26plus,124,Montana,marijuana
+All,180,Montana,marijuana
+12to17,22,Nebraska,marijuana
+18to25,73,Nebraska,marijuana
+26plus,133,Nebraska,marijuana
+All,227,Nebraska,marijuana
+12to17,39,Nevada,marijuana
+18to25,123,Nevada,marijuana
+26plus,451,Nevada,marijuana
+All,613,Nevada,marijuana
+12to17,15,New Hampshire,marijuana
+18to25,64,New Hampshire,marijuana
+26plus,173,New Hampshire,marijuana
+All,253,New Hampshire,marijuana
+12to17,78,New Jersey,marijuana
+18to25,304,New Jersey,marijuana
+26plus,651,New Jersey,marijuana
+All,1033,New Jersey,marijuana
+12to17,31,New Mexico,marijuana
+18to25,77,New Mexico,marijuana
+26plus,250,New Mexico,marijuana
+All,358,New Mexico,marijuana
+12to17,177,New York,marijuana
+18to25,782,New York,marijuana
+26plus,1913,New York,marijuana
+All,2871,New York,marijuana
+12to17,101,North Carolina,marijuana
+18to25,329,North Carolina,marijuana
+26plus,885,North Carolina,marijuana
+All,1316,North Carolina,marijuana
+12to17,5,North Dakota,marijuana
+18to25,26,North Dakota,marijuana
+26plus,47,North Dakota,marijuana
+All,78,North Dakota,marijuana
+12to17,106,Ohio,marijuana
+18to25,430,Ohio,marijuana
+26plus,1021,Ohio,marijuana
+All,1556,Ohio,marijuana
+12to17,36,Oklahoma,marijuana
+18to25,134,Oklahoma,marijuana
+26plus,328,Oklahoma,marijuana
+All,497,Oklahoma,marijuana
+12to17,55,Oregon,marijuana
+18to25,196,Oregon,marijuana
+26plus,718,Oregon,marijuana
+All,969,Oregon,marijuana
+12to17,109,Pennsylvania,marijuana
+18to25,436,Pennsylvania,marijuana
+26plus,1207,Pennsylvania,marijuana
+All,1752,Pennsylvania,marijuana
+12to17,12,Rhode Island,marijuana
+18to25,55,Rhode Island,marijuana
+26plus,145,Rhode Island,marijuana
+All,212,Rhode Island,marijuana
+12to17,43,South Carolina,marijuana
+18to25,139,South Carolina,marijuana
+26plus,439,South Carolina,marijuana
+All,620,South Carolina,marijuana
+12to17,7,South Dakota,marijuana
+18to25,24,South Dakota,marijuana
+26plus,48,South Dakota,marijuana
+All,80,South Dakota,marijuana
+12to17,55,Tennessee,marijuana
+18to25,203,Tennessee,marijuana
+26plus,523,Tennessee,marijuana
+All,780,Tennessee,marijuana
+12to17,271,Texas,marijuana
+18to25,817,Texas,marijuana
+26plus,1774,Texas,marijuana
+All,2862,Texas,marijuana
+12to17,32,Utah,marijuana
+18to25,104,Utah,marijuana
+26plus,178,Utah,marijuana
+All,314,Utah,marijuana
+12to17,9,Vermont,marijuana
+18to25,38,Vermont,marijuana
+26plus,100,Vermont,marijuana
+All,148,Vermont,marijuana
+12to17,61,Virginia,marijuana
+18to25,287,Virginia,marijuana
+26plus,518,Virginia,marijuana
+All,866,Virginia,marijuana
+12to17,89,Washington,marijuana
+18to25,336,Washington,marijuana
+26plus,1199,Washington,marijuana
+All,1624,Washington,marijuana
+12to17,15,West Virginia,marijuana
+18to25,58,West Virginia,marijuana
+26plus,144,West Virginia,marijuana
+All,217,West Virginia,marijuana
+12to17,53,Wisconsin,marijuana
+18to25,201,Wisconsin,marijuana
+26plus,466,Wisconsin,marijuana
+All,720,Wisconsin,marijuana
+12to17,6,Wyoming,marijuana
+18to25,18,Wyoming,marijuana
+26plus,38,Wyoming,marijuana
+All,61,Wyoming,marijuana
+12to17,1,Alabama,meth
+18to25,5,Alabama,meth
+26plus,41,Alabama,meth
+All,47,Alabama,meth
+12to17,0,Alaska,meth
+18to25,1,Alaska,meth
+26plus,6,Alaska,meth
+All,7,Alaska,meth
+12to17,1,Arizona,meth
+18to25,11,Arizona,meth
+26plus,93,Arizona,meth
+All,105,Arizona,meth
+12to17,1,Arkansas,meth
+18to25,3,Arkansas,meth
+26plus,19,Arkansas,meth
+All,23,Arkansas,meth
+12to17,3,California,meth
+18to25,34,California,meth
+26plus,278,California,meth
+All,315,California,meth
+12to17,1,Colorado,meth
+18to25,8,Colorado,meth
+26plus,34,Colorado,meth
+All,43,Colorado,meth
+12to17,0,Connecticut,meth
+18to25,2,Connecticut,meth
+26plus,9,Connecticut,meth
+All,11,Connecticut,meth
+12to17,0,Delaware,meth
+18to25,1,Delaware,meth
+26plus,4,Delaware,meth
+All,5,Delaware,meth
+12to17,2,Florida,meth
+18to25,11,Florida,meth
+26plus,63,Florida,meth
+All,76,Florida,meth
+12to17,1,Georgia,meth
+18to25,6,Georgia,meth
+26plus,40,Georgia,meth
+All,48,Georgia,meth
+12to17,0,Hawaii,meth
+18to25,1,Hawaii,meth
+26plus,14,Hawaii,meth
+All,15,Hawaii,meth
+12to17,0,Idaho,meth
+18to25,2,Idaho,meth
+26plus,9,Idaho,meth
+All,12,Idaho,meth
+12to17,1,Illinois,meth
+18to25,4,Illinois,meth
+26plus,36,Illinois,meth
+All,41,Illinois,meth
+12to17,2,Indiana,meth
+18to25,11,Indiana,meth
+26plus,39,Indiana,meth
+All,52,Indiana,meth
+12to17,1,Iowa,meth
+18to25,4,Iowa,meth
+26plus,25,Iowa,meth
+All,29,Iowa,meth
+12to17,1,Kansas,meth
+18to25,4,Kansas,meth
+26plus,26,Kansas,meth
+All,31,Kansas,meth
+12to17,1,Kentucky,meth
+18to25,7,Kentucky,meth
+26plus,37,Kentucky,meth
+All,45,Kentucky,meth
+12to17,1,Louisiana,meth
+18to25,3,Louisiana,meth
+26plus,27,Louisiana,meth
+All,30,Louisiana,meth
+12to17,0,Maine,meth
+18to25,1,Maine,meth
+26plus,5,Maine,meth
+All,6,Maine,meth
+12to17,0,Maryland,meth
+18to25,2,Maryland,meth
+26plus,13,Maryland,meth
+All,16,Maryland,meth
+12to17,1,Massachusetts,meth
+18to25,3,Massachusetts,meth
+26plus,17,Massachusetts,meth
+All,20,Massachusetts,meth
+12to17,1,Michigan,meth
+18to25,6,Michigan,meth
+26plus,24,Michigan,meth
+All,32,Michigan,meth
+12to17,1,Minnesota,meth
+18to25,5,Minnesota,meth
+26plus,31,Minnesota,meth
+All,37,Minnesota,meth
+12to17,0,Mississippi,meth
+18to25,2,Mississippi,meth
+26plus,20,Mississippi,meth
+All,23,Mississippi,meth
+12to17,1,Missouri,meth
+18to25,7,Missouri,meth
+26plus,37,Missouri,meth
+All,46,Missouri,meth
+12to17,0,Montana,meth
+18to25,2,Montana,meth
+26plus,10,Montana,meth
+All,13,Montana,meth
+12to17,0,Nebraska,meth
+18to25,2,Nebraska,meth
+26plus,7,Nebraska,meth
+All,9,Nebraska,meth
+12to17,0,Nevada,meth
+18to25,4,Nevada,meth
+26plus,26,Nevada,meth
+All,31,Nevada,meth
+12to17,0,New Hampshire,meth
+18to25,1,New Hampshire,meth
+26plus,4,New Hampshire,meth
+All,5,New Hampshire,meth
+12to17,1,New Jersey,meth
+18to25,3,New Jersey,meth
+26plus,24,New Jersey,meth
+All,28,New Jersey,meth
+12to17,0,New Mexico,meth
+18to25,3,New Mexico,meth
+26plus,11,New Mexico,meth
+All,14,New Mexico,meth
+12to17,2,New York,meth
+18to25,6,New York,meth
+26plus,32,New York,meth
+All,40,New York,meth
+12to17,1,North Carolina,meth
+18to25,7,North Carolina,meth
+26plus,41,North Carolina,meth
+All,49,North Carolina,meth
+12to17,0,North Dakota,meth
+18to25,1,North Dakota,meth
+26plus,5,North Dakota,meth
+All,7,North Dakota,meth
+12to17,2,Ohio,meth
+18to25,12,Ohio,meth
+26plus,69,Ohio,meth
+All,83,Ohio,meth
+12to17,1,Oklahoma,meth
+18to25,6,Oklahoma,meth
+26plus,32,Oklahoma,meth
+All,39,Oklahoma,meth
+12to17,1,Oregon,meth
+18to25,6,Oregon,meth
+26plus,39,Oregon,meth
+All,45,Oregon,meth
+12to17,2,Pennsylvania,meth
+18to25,12,Pennsylvania,meth
+26plus,63,Pennsylvania,meth
+All,77,Pennsylvania,meth
+12to17,0,Rhode Island,meth
+18to25,1,Rhode Island,meth
+26plus,3,Rhode Island,meth
+All,4,Rhode Island,meth
+12to17,1,South Carolina,meth
+18to25,4,South Carolina,meth
+26plus,20,South Carolina,meth
+All,24,South Carolina,meth
+12to17,0,South Dakota,meth
+18to25,1,South Dakota,meth
+26plus,3,South Dakota,meth
+All,5,South Dakota,meth
+12to17,1,Tennessee,meth
+18to25,7,Tennessee,meth
+26plus,49,Tennessee,meth
+All,58,Tennessee,meth
+12to17,3,Texas,meth
+18to25,22,Texas,meth
+26plus,94,Texas,meth
+All,119,Texas,meth
+12to17,1,Utah,meth
+18to25,5,Utah,meth
+26plus,16,Utah,meth
+All,22,Utah,meth
+12to17,0,Vermont,meth
+18to25,1,Vermont,meth
+26plus,3,Vermont,meth
+All,4,Vermont,meth
+12to17,1,Virginia,meth
+18to25,5,Virginia,meth
+26plus,22,Virginia,meth
+All,28,Virginia,meth
+12to17,1,Washington,meth
+18to25,6,Washington,meth
+26plus,40,Washington,meth
+All,47,Washington,meth
+12to17,0,West Virginia,meth
+18to25,3,West Virginia,meth
+26plus,17,West Virginia,meth
+All,21,West Virginia,meth
+12to17,1,Wisconsin,meth
+18to25,7,Wisconsin,meth
+26plus,32,Wisconsin,meth
+All,40,Wisconsin,meth
+12to17,0,Wyoming,meth
+18to25,1,Wyoming,meth
+26plus,2,Wyoming,meth
+All,3,Wyoming,meth
+12to17,13,Alabama,tobacco
+18to25,111,Alabama,tobacco
+26plus,808,Alabama,tobacco
+All,932,Alabama,tobacco
+12to17,2,Alaska,tobacco
+18to25,14,Alaska,tobacco
+26plus,86,Alaska,tobacco
+All,102,Alaska,tobacco
+12to17,10,Arizona,tobacco
+18to25,134,Arizona,tobacco
+26plus,801,Arizona,tobacco
+All,945,Arizona,tobacco
+12to17,8,Arkansas,tobacco
+18to25,70,Arkansas,tobacco
+26plus,485,Arkansas,tobacco
+All,564,Arkansas,tobacco
+12to17,37,California,tobacco
+18to25,553,California,tobacco
+26plus,3196,California,tobacco
+All,3786,California,tobacco
+12to17,13,Colorado,tobacco
+18to25,114,Colorado,tobacco
+26plus,658,Colorado,tobacco
+All,784,Colorado,tobacco
+12to17,4,Connecticut,tobacco
+18to25,61,Connecticut,tobacco
+26plus,361,Connecticut,tobacco
+All,426,Connecticut,tobacco
+12to17,1,Delaware,tobacco
+18to25,17,Delaware,tobacco
+26plus,126,Delaware,tobacco
+All,143,Delaware,tobacco
+12to17,30,Florida,tobacco
+18to25,276,Florida,tobacco
+26plus,2524,Florida,tobacco
+All,2830,Florida,tobacco
+12to17,19,Georgia,tobacco
+18to25,168,Georgia,tobacco
+26plus,1245,Georgia,tobacco
+All,1432,Georgia,tobacco
+12to17,1,Hawaii,tobacco
+18to25,18,Hawaii,tobacco
+26plus,143,Hawaii,tobacco
+All,163,Hawaii,tobacco
+12to17,4,Idaho,tobacco
+18to25,32,Idaho,tobacco
+26plus,191,Idaho,tobacco
+All,228,Idaho,tobacco
+12to17,18,Illinois,tobacco
+18to25,212,Illinois,tobacco
+26plus,1506,Illinois,tobacco
+All,1736,Illinois,tobacco
+12to17,18,Indiana,tobacco
+18to25,185,Indiana,tobacco
+26plus,1051,Indiana,tobacco
+All,1254,Indiana,tobacco
+12to17,10,Iowa,tobacco
+18to25,72,Iowa,tobacco
+26plus,461,Iowa,tobacco
+All,542,Iowa,tobacco
+12to17,5,Kansas,tobacco
+18to25,54,Kansas,tobacco
+26plus,376,Kansas,tobacco
+All,436,Kansas,tobacco
+12to17,16,Kentucky,tobacco
+18to25,120,Kentucky,tobacco
+26plus,797,Kentucky,tobacco
+All,933,Kentucky,tobacco
+12to17,12,Louisiana,tobacco
+18to25,103,Louisiana,tobacco
+26plus,728,Louisiana,tobacco
+All,843,Louisiana,tobacco
+12to17,4,Maine,tobacco
+18to25,26,Maine,tobacco
+26plus,172,Maine,tobacco
+All,201,Maine,tobacco
+12to17,8,Maryland,tobacco
+18to25,95,Maryland,tobacco
+26plus,648,Maryland,tobacco
+All,751,Maryland,tobacco
+12to17,11,Massachusetts,tobacco
+18to25,132,Massachusetts,tobacco
+26plus,718,Massachusetts,tobacco
+All,861,Massachusetts,tobacco
+12to17,20,Michigan,tobacco
+18to25,212,Michigan,tobacco
+26plus,1384,Michigan,tobacco
+All,1616,Michigan,tobacco
+12to17,13,Minnesota,tobacco
+18to25,111,Minnesota,tobacco
+26plus,642,Minnesota,tobacco
+All,766,Minnesota,tobacco
+12to17,10,Mississippi,tobacco
+18to25,71,Mississippi,tobacco
+26plus,511,Mississippi,tobacco
+All,593,Mississippi,tobacco
+12to17,16,Missouri,tobacco
+18to25,138,Missouri,tobacco
+26plus,855,Missouri,tobacco
+All,1009,Missouri,tobacco
+12to17,4,Montana,tobacco
+18to25,32,Montana,tobacco
+26plus,151,Montana,tobacco
+All,187,Montana,tobacco
+12to17,4,Nebraska,tobacco
+18to25,43,Nebraska,tobacco
+26plus,237,Nebraska,tobacco
+All,285,Nebraska,tobacco
+12to17,5,Nevada,tobacco
+18to25,46,Nevada,tobacco
+26plus,383,Nevada,tobacco
+All,434,Nevada,tobacco
+12to17,3,New Hampshire,tobacco
+18to25,29,New Hampshire,tobacco
+26plus,141,New Hampshire,tobacco
+All,173,New Hampshire,tobacco
+12to17,11,New Jersey,tobacco
+18to25,128,New Jersey,tobacco
+26plus,852,New Jersey,tobacco
+All,991,New Jersey,tobacco
+12to17,5,New Mexico,tobacco
+18to25,52,New Mexico,tobacco
+26plus,281,New Mexico,tobacco
+All,337,New Mexico,tobacco
+12to17,24,New York,tobacco
+18to25,326,New York,tobacco
+26plus,2053,New York,tobacco
+All,2403,New York,tobacco
+12to17,23,North Carolina,tobacco
+18to25,205,North Carolina,tobacco
+26plus,1502,North Carolina,tobacco
+All,1731,North Carolina,tobacco
+12to17,2,North Dakota,tobacco
+18to25,20,North Dakota,tobacco
+26plus,99,North Dakota,tobacco
+All,121,North Dakota,tobacco
+12to17,33,Ohio,tobacco
+18to25,283,Ohio,tobacco
+26plus,1763,Ohio,tobacco
+All,2079,Ohio,tobacco
+12to17,14,Oklahoma,tobacco
+18to25,113,Oklahoma,tobacco
+26plus,639,Oklahoma,tobacco
+All,766,Oklahoma,tobacco
+12to17,9,Oregon,tobacco
+18to25,86,Oregon,tobacco
+26plus,477,Oregon,tobacco
+All,572,Oregon,tobacco
+12to17,27,Pennsylvania,tobacco
+18to25,284,Pennsylvania,tobacco
+26plus,1761,Pennsylvania,tobacco
+All,2072,Pennsylvania,tobacco
+12to17,1,Rhode Island,tobacco
+18to25,22,Rhode Island,tobacco
+26plus,125,Rhode Island,tobacco
+All,148,Rhode Island,tobacco
+12to17,14,South Carolina,tobacco
+18to25,111,South Carolina,tobacco
+26plus,786,South Carolina,tobacco
+All,912,South Carolina,tobacco
+12to17,3,South Dakota,tobacco
+18to25,19,South Dakota,tobacco
+26plus,112,South Dakota,tobacco
+All,134,South Dakota,tobacco
+12to17,20,Tennessee,tobacco
+18to25,165,Tennessee,tobacco
+26plus,995,Tennessee,tobacco
+All,1180,Tennessee,tobacco
+12to17,55,Texas,tobacco
+18to25,568,Texas,tobacco
+26plus,3291,Texas,tobacco
+All,3913,Texas,tobacco
+12to17,6,Utah,tobacco
+18to25,54,Utah,tobacco
+26plus,232,Utah,tobacco
+All,291,Utah,tobacco
+12to17,2,Vermont,tobacco
+18to25,18,Vermont,tobacco
+26plus,76,Vermont,tobacco
+All,96,Vermont,tobacco
+12to17,18,Virginia,tobacco
+18to25,185,Virginia,tobacco
+26plus,966,Virginia,tobacco
+All,1169,Virginia,tobacco
+12to17,13,Washington,tobacco
+18to25,125,Washington,tobacco
+26plus,942,Washington,tobacco
+All,1081,Washington,tobacco
+12to17,7,West Virginia,tobacco
+18to25,54,West Virginia,tobacco
+26plus,336,West Virginia,tobacco
+All,397,West Virginia,tobacco
+12to17,11,Wisconsin,tobacco
+18to25,119,Wisconsin,tobacco
+26plus,750,Wisconsin,tobacco
+All,880,Wisconsin,tobacco
+12to17,2,Wyoming,tobacco
+18to25,16,Wyoming,tobacco
+26plus,78,Wyoming,tobacco
+All,96,Wyoming,tobacco
+12to17,12,Alabama,total
+18to25,68,Alabama,total
+26plus,227,Alabama,total
+All,306,Alabama,total
+12to17,3,Alaska,total
+18to25,13,Alaska,total
+26plus,41,Alaska,total
+All,57,Alaska,total
+12to17,27,Arizona,total
+18to25,106,Arizona,total
+26plus,283,Arizona,total
+All,417,Arizona,total
+12to17,9,Arkansas,total
+18to25,38,Arkansas,total
+26plus,125,Arkansas,total
+All,171,Arkansas,total
+12to17,137,California,total
+18to25,673,California,total
+26plus,2105,California,total
+All,2915,California,total
+12to17,24,Colorado,total
+18to25,124,Colorado,total
+26plus,390,Colorado,total
+All,537,Colorado,total
+12to17,10,Connecticut,total
+18to25,72,Connecticut,total
+26plus,163,Connecticut,total
+All,245,Connecticut,total
+12to17,3,Delaware,total
+18to25,16,Delaware,total
+26plus,50,Delaware,total
+All,69,Delaware,total
+12to17,56,Florida,total
+18to25,241,Florida,total
+26plus,766,Florida,total
+All,1062,Florida,total
+12to17,30,Georgia,total
+18to25,135,Georgia,total
+26plus,384,Georgia,total
+All,549,Georgia,total
+12to17,4,Hawaii,total
+18to25,20,Hawaii,total
+26plus,70,Hawaii,total
+All,93,Hawaii,total
+12to17,7,Idaho,total
+18to25,25,Idaho,total
+26plus,75,Idaho,total
+All,107,Idaho,total
+12to17,42,Illinois,total
+18to25,193,Illinois,total
+26plus,584,Illinois,total
+All,819,Illinois,total
+12to17,23,Indiana,total
+18to25,109,Indiana,total
+26plus,316,Indiana,total
+All,448,Indiana,total
+12to17,12,Iowa,total
+18to25,54,Iowa,total
+26plus,139,Iowa,total
+All,205,Iowa,total
+12to17,10,Kansas,total
+18to25,45,Kansas,total
+26plus,111,Kansas,total
+All,166,Kansas,total
+12to17,14,Kentucky,total
+18to25,59,Kentucky,total
+26plus,207,Kentucky,total
+All,280,Kentucky,total
+12to17,12,Louisiana,total
+18to25,58,Louisiana,total
+26plus,221,Louisiana,total
+All,291,Louisiana,total
+12to17,4,Maine,total
+18to25,21,Maine,total
+26plus,74,Maine,total
+All,100,Maine,total
+12to17,17,Maryland,total
+18to25,87,Maryland,total
+26plus,236,Maryland,total
+All,340,Maryland,total
+12to17,20,Massachusetts,total
+18to25,139,Massachusetts,total
+26plus,344,Massachusetts,total
+All,503,Massachusetts,total
+12to17,30,Michigan,total
+18to25,162,Michigan,total
+26plus,424,Michigan,total
+All,615,Michigan,total
+12to17,20,Minnesota,total
+18to25,87,Minnesota,total
+26plus,238,Minnesota,total
+All,346,Minnesota,total
+12to17,8,Mississippi,total
+18to25,37,Mississippi,total
+26plus,121,Mississippi,total
+All,166,Mississippi,total
+12to17,19,Missouri,total
+18to25,88,Missouri,total
+26plus,271,Missouri,total
+All,377,Missouri,total
+12to17,4,Montana,total
+18to25,18,Montana,total
+26plus,64,Montana,total
+All,87,Montana,total
+12to17,6,Nebraska,total
+18to25,31,Nebraska,total
+26plus,79,Nebraska,total
+All,116,Nebraska,total
+12to17,13,Nevada,total
+18to25,48,Nevada,total
+26plus,169,Nevada,total
+All,230,Nevada,total
+12to17,4,New Hampshire,total
+18to25,28,New Hampshire,total
+26plus,68,New Hampshire,total
+All,100,New Hampshire,total
+12to17,22,New Jersey,total
+18to25,126,New Jersey,total
+26plus,333,New Jersey,total
+All,482,New Jersey,total
+12to17,9,New Mexico,total
+18to25,34,New Mexico,total
+26plus,88,New Mexico,total
+All,131,New Mexico,total
+12to17,52,New York,total
+18to25,295,New York,total
+26plus,836,New York,total
+All,1184,New York,total
+12to17,31,North Carolina,total
+18to25,146,North Carolina,total
+26plus,430,North Carolina,total
+All,607,North Carolina,total
+12to17,3,North Dakota,total
+18to25,15,North Dakota,total
+26plus,35,North Dakota,total
+All,53,North Dakota,total
+12to17,38,Ohio,total
+18to25,178,Ohio,total
+26plus,531,Ohio,total
+All,747,Ohio,total
+12to17,14,Oklahoma,total
+18to25,59,Oklahoma,total
+26plus,175,Oklahoma,total
+All,248,Oklahoma,total
+12to17,17,Oregon,total
+18to25,73,Oregon,total
+26plus,250,Oregon,total
+All,339,Oregon,total
+12to17,32,Pennsylvania,total
+18to25,195,Pennsylvania,total
+26plus,533,Pennsylvania,total
+All,760,Pennsylvania,total
+12to17,3,Rhode Island,total
+18to25,22,Rhode Island,total
+26plus,53,Rhode Island,total
+All,78,Rhode Island,total
+12to17,15,South Carolina,total
+18to25,63,South Carolina,total
+26plus,200,South Carolina,total
+All,278,South Carolina,total
+12to17,3,South Dakota,total
+18to25,13,South Dakota,total
+26plus,37,South Dakota,total
+All,53,South Dakota,total
+12to17,21,Tennessee,total
+18to25,90,Tennessee,total
+26plus,284,Tennessee,total
+All,395,Tennessee,total
+12to17,87,Texas,total
+18to25,389,Texas,total
+26plus,971,Texas,total
+All,1447,Texas,total
+12to17,12,Utah,total
+18to25,47,Utah,total
+26plus,99,Utah,total
+All,158,Utah,total
+12to17,2,Vermont,total
+18to25,14,Vermont,total
+26plus,37,Vermont,total
+All,53,Vermont,total
+12to17,23,Virginia,total
+18to25,131,Virginia,total
+26plus,342,Virginia,total
+All,496,Virginia,total
+12to17,26,Washington,total
+18to25,115,Washington,total
+26plus,385,Washington,total
+All,527,Washington,total
+12to17,6,West Virginia,total
+18to25,24,West Virginia,total
+26plus,65,West Virginia,total
+All,94,West Virginia,total
+12to17,19,Wisconsin,total
+18to25,97,Wisconsin,total
+26plus,261,Wisconsin,total
+All,377,Wisconsin,total
+12to17,2,Wyoming,total
+18to25,8,Wyoming,total
+26plus,26,Wyoming,total
+All,36,Wyoming,total
+All,8,Hawaii,total
+All,13.65,Alaska,total

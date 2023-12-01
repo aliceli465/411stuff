@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team 46 - Abdus Dogs</title>    
+    <!--css-->
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/main_style.css">
+    <!--comfortaa font-->
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
+    <!--jquery and mustache-->
+    <script type="text/javascript" src="node_modules/jquery/dist/jquery.js"></script> 
+    <script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="node_modules/mustache/mustache.js"></script>
+    <script type="text/javascript" src="/js/exec.js"></script>
+</head>
+<body>
+    <!--nav bar-->
+    <ul class="nav">
+      <li class="nav" style="margin-left:130px"><a class="nav" href="/index.html">Home</a></li>
+      <li class="nav"><a class="nav" href="aboutus.html">About Us</a></li>
+      <li class="nav"><a class="nav" href="search.html">Search</a></li>
+      <li class="nav"><a class="nav" href="more.html">More Resources</a></li>
+      <li class="nav"><a class="nav"  href="profile.html">My Profile</a></li>
+  </ul>
+    <br/>
+    <br>
+    <h1 class="headers">Meet the team</h1>
+    <h3 class="headers">Click each photo to learn more!</h3>
+    <br/>
+    <br>
+    <br>
+    <script type="text/x-mustache" id="boardTemplate">
+        <div class="board_div">
+            <img class="board_pic" src="{{image}}" data-bs-toggle="modal" data-bs-target="#{{netid}}">
+            <h3>{{name}}</h3>
+            <div id="board_title_box">
+              <p id="board_title">{{position}}</p>
+              <a href="mailto:{{email}}" target="_blank">
+                <img id="board_email" src="/images/miscellaneous/email_black.png">
+              </a>
+            </div>
+        </div>
+        <div class="modal fade" id="{{netid}}">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h4 class="modal-title">{{name}}</h4>
+              </div>
+              <div class="modal-body">
+                  <img class="modal_pic" src="{{image}}">
+                  <p class="modal_question">Major: <span class="modal_answer">{{major}}</span></p>
+                  <p class="modal_question">Year: <span class="modal_answer">{{year}}</span></p>
+                  <p class="modal_question">From: <span class="modal_answer">{{from}}</span></p>
+                  <p class="modal_question">Why this project: <span class="modal_answer">{{why}}</span></p>
+                  <p class="modal_question">Hobbies: <span class="modal_answer">{{hobbies}}</span></p>
+                  <p class="modal_question">Fun fact: <span class="modal_answer">{{fact}}</span></p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-bs-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+    </script>
+    <div class="board_container" id="exec">
+    </div>
+    <br>
+    <br>
+    <div style="display:flex; margin-left:400px;">
+      <div>
+        <h1 class="headers">Special thanks to:</h1>
+        <h3 class="headers">Our TA Mariam</h3>
+        <h3 class="headers">All the amazing TAs in discussion</h3>
+        <h3 class="headers">And our dawg Abdu Alawani</h3>
+      </div>
+      <div style="padding-left:50px;">
+        <img src="/images/yay3.gif" style="width:200px;height:200px;object-fit:contain;">
+      </div>
+    </div>
+</body>
+</html>
