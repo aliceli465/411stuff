@@ -1,26 +1,15 @@
-//not sure wtf to put here
+// index.js
 const express = require('express');
-// const bodyParser = require('body-parser');
-
+const bodyParser = require('body-parser');
 const app = express();
 
-// const connectToDatabase = require('./routes/database');
-// connectToDatabase((err, connection) => {
-//   if (err) {
-//     console.error('Error connecting to the database:', err);
-//   }
-
-//   // Pass the database connection to your routes
-//   app.set('db', connection);
-// });
-
-//const registerRoute = require('./routes/register');
-//not sure what the middlewares would be
-//app.use('/', registerRoute);
-//index.html
+const testRoute = require('./routes/testRoute');
+const registerRoute = require('./routes/register')
+app.use(bodyParser.urlencoded({ extended: true })); // Add this line to parse the request body
+app.use('/', testRoute);
+app.use('/', registerRoute);
 app.use(express.static(__dirname, { index: 'index.html' }));
 
-// Set up the server to listen on a port
 const PORT = 3001;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);

@@ -32,7 +32,7 @@
   <img src="/images/yay.gif" style="display: block; margin:auto;width:200px;height:200px;object-fit:contain;">
 
   <!--change this plz-->
-  <form id="loginForm" action="profile2.html">
+  <form id="loginForm" action="/register-route" method="post">
     <div style="margin: auto; width: 100%;">
         <label for="login" style="font-family: Comfortaa;">Enter your email:</label>
         <br>
@@ -41,7 +41,69 @@
     <br>
     <button type="submit" class="formbutton">Login</button>
   </form>
-<!--<script src="registerScript.js"></script>-->
-
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.getElementById('loginForm').addEventListener('submit', function (event) {
+          event.preventDefault();
+          const email = document.getElementById('login').value;
+          console.log('fetching route');
+          fetch('/register-route', {
+              method: 'POST', 
+              headers: {
+                  'Content-Type': 'application/x-www-form-urlencoded',
+              },
+              body: `email=${encodeURIComponent(email)}`, // Send the email as part of the request body
+              credentials: 'same-origin',
+          })
+              .then(response => response.text())
+              .then(data => {
+                  if (data === 'user exists') {
+                      window.location.href = 'profile2.html';
+                      alert("user already exists ooo: " + email);
+                  }
+                  else if (data =='user created') {
+                      window.location.href = 'profile2.html';
+                      alert("user created ooooooo: " + email);
+                  }
+                  else{
+                    alert("internal error");
+                  }
+              })
+              .catch(error => {
+                  alert("an error happened with the route");
+              });
+      });
+  });
+  </script>
+  <!-- <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.getElementById('loginForm').addEventListener('submit', function (event) {
+          event.preventDefault();
+          const email = document.getElementById('login').value;
+          console.log('fetching route');
+          fetch('/test-route', {
+              method: 'POST', 
+              headers: {
+                  'Content-Type': 'application/x-www-form-urlencoded',
+              },
+              body: `email=${encodeURIComponent(email)}`, // Send the email as part of the request body
+              credentials: 'same-origin',
+          })
+              .then(response => response.text())
+              .then(data => {
+                  if (data === 'Received email: ' + email) {
+                      window.location.href = 'profile2.html';
+                      alert("yay! received this email: " + email);
+                  }
+                  else{
+                    alert("did not receive email");
+                  }
+              })
+              .catch(error => {
+                  alert("an error happened");
+              });
+      });
+  });
+</script> -->
 </body>
 </html>
